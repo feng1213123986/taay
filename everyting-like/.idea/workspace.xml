@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd53dd8d-d473-4984-bfd5-b88792195e98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gdMLOF5svUHwbOBID2vPUw36Xl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_221" />
+    <property name="last_opened_file_path" value="E:/java11/maven-web" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="everyting-like" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="RunConfigurationTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="everyting-like" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="RunConfigurationTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="749" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598595833862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598595833862" />
+    <state x="715" y="400" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598595432677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="400" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598595432677" />
+    <state x="222" y="457" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598595831027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="222" y="457" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598595831027" />
+    <state x="773" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598440039047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598440039047" />
+    <state x="703" y="361" key="FileChooserDialogImpl" timestamp="1598595203836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="361" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598595203836" />
+    <state width="1108" height="266" key="GridCell.Tab.0.bottom" timestamp="1598603752538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1108" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598603752538" />
+    <state width="1108" height="266" key="GridCell.Tab.0.center" timestamp="1598603752538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1108" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598603752538" />
+    <state width="1108" height="266" key="GridCell.Tab.0.left" timestamp="1598603752538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1108" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598603752538" />
+    <state width="1108" height="266" key="GridCell.Tab.0.right" timestamp="1598603752538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1108" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598603752538" />
+    <state x="822" y="269" key="SettingsEditor" timestamp="1598595895198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="269" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598595895198" />
+    <state x="614" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1598704600415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598704600415" />
+    <state x="572" y="182" key="new project wizard" timestamp="1598593733415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="182" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598593733415" />
+  </component>
+</project>
