@@ -56,7 +56,7 @@ public class DBInit {
             // 4.如果是查询操作，获取结果集ResultSet，处理结果集
         }catch (Exception e){
             e.printStackTrace();
-            throw new RuntimeException("初始化数据库表操作失败，同学们需要检查打印出来sql", e);
+            throw new RuntimeException("初始化数据库表操作失败，需要检查打印出来sql", e);
         }finally {
             // 5.释放资源
             DBUtil.close(connection, statement);

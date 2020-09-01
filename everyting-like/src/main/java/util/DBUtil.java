@@ -20,12 +20,6 @@ public class DBUtil {
     /**
      * 提供获取数据库连接池的功能：
      * 使用单例模式（多线程安全版本）
-     * 回顾多线程安全版本的单例模式：
-     * 1.为什么在外层判断是否等于null
-     * 2.synchronized加锁以后，为什么还要判断等于null
-     * 3.为什么DataSource类变量要使用volatile关键字修饰
-     * 多线程操作：原子性，可见性（主内存拷贝到工作内存），有序性
-     * synchronized保证三个特性，volatile保证可见性，有序性
      * @return
      */
     private static DataSource getDataSource(){

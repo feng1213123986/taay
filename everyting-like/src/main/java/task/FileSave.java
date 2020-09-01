@@ -82,7 +82,7 @@ public class FileSave implements ScanCallback {
             return metas;
         }catch (Exception e){
             e.printStackTrace();
-            throw new RuntimeException("查询文件信息出错，同学们检查sql查询语句", e);
+            throw new RuntimeException("查询文件信息出错，检查sql查询语句", e);
         }finally {//5.释放资源
             DBUtil.close(connection, ps, rs);
         }
@@ -118,7 +118,7 @@ public class FileSave implements ScanCallback {
             //3.执行sql
             statement.executeUpdate();
         } catch (SQLException e) {
-            throw new RuntimeException("文件保存失败，同学们检查一下sql insert语句", e);
+            throw new RuntimeException("文件保存失败，检查一下sql insert语句", e);
         } finally {
             //4.释放资源
             DBUtil.close(connection, statement);
@@ -153,18 +153,13 @@ public class FileSave implements ScanCallback {
                     meta.getPath()+File.separator+meta.getName());
             ps.executeUpdate();
         }catch (Exception e){
-            throw new RuntimeException("删除文件信息出错，同学们需要检查delete语句", e);
+            throw new RuntimeException("删除文件信息出错，需要检查delete语句", e);
         }finally {
             DBUtil.close(connection, ps);
         }
     }
 
     public static void main(String[] args) {
-//        DBInit.init();
-//        File file = new File("D:\\比特科技\\10班\\板书");
-//        FileSave fileSave = new FileSave();
-//        fileSave.save(file);
-//        fileSave.query(file.getParentFile());
         List<FileMeta> locals = new ArrayList<>();
         locals.add(new FileMeta("新建文件夹",
                 "D:\\TMP\\maven-test - 副本",

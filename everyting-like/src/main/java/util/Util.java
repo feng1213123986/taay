@@ -33,7 +33,7 @@ public class Util {
     }
 
     public static void main(String[] args) {
-        System.out.println(new File("D:\\比特科技\\10班\\板书\\IO（1）.png").length());
+        System.out.println(new File("D:\\IO（1）.png").length());
         System.out.println(parseSize(100_000_000_000_000L));
         System.out.println(parseDate(new Date()));
     }

@@ -104,7 +104,6 @@ public class Controller implements Initializable {
             metas.addAll(fileMetas);
         }
 
-        // --->方法返回后，javafx表单做什么？
         // 通过反射获取fileMeta类型中的属性（app.fxml文件中定义的属性）
     }
 }
